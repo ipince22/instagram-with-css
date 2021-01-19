@@ -1,0 +1,36 @@
+body{
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+
+.cabecera{
+    background-color: bisque;
+    padding: 5px;
+    border-bottom: 1px solid gray ;
+    text-align: center;
+}
+
+article{
+    border: 1px solid gray;
+    background-color: khaki;
+    border-bottom: 20px;
+    border-radius: 5px;
+    width: 400px;
+
+}
+.tituloPost{
+     display: flex;
+}
+
+.tituloPost div{
+    width: 50%;
+    text-align: center;
+}
+
+
+.comentario{
+
+}
